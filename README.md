@@ -13,13 +13,13 @@ Software engineer with 4+ years of experience designing and delivering enterpris
 
 I work at the intersection of backend engineering and enterprise systems, and I build the frontends on top of them when a project needs it: connecting platforms such as NetSuite, SAP and retail and logistics APIs, building services that process data reliably at scale, and automating operations so teams can focus on higher-value work.
 
-Today I lead technology projects at **Koval**, where I coordinate technology projects, architect backend services, integrate systems with the ERP, and build solutions on Azure. Before that, I spent two years as a Java developer at **AgileThought**, building APIs and cloud integrations on Google Cloud for large e-commerce and logistics workflows.
+Today I work as Technical Supervisor at **Koval**, leading technical delivery across enterprise software projects. Before that, I spent two years as a Java developer at **AgileThought**, building APIs and cloud integrations on Google Cloud for large e-commerce and logistics workflows.
 
 ## 🛠️ What I do
 
 - ⚙️ **Backend and APIs:** scalable REST services with Spring Boot, FastAPI and NestJS, including distributed and asynchronous processing.
 - 🖥️ **Frontend:** web interfaces with React and TypeScript, using Redux for state management, from purchase-order platforms integrated with SAP to admin panels.
-- 🔌 **Enterprise integrations:** NetSuite ERP and CRM customization, SAP, retail marketplaces, shipping carriers and access-control hardware.
+- 🔌 **Enterprise integrations:** NetSuite ERP and CRM customization, SAP, retail marketplaces and shipping carriers.
 - ☁️ **Cloud:** Google Cloud Platform and Microsoft Azure, with API management through Apigee.
 - 🔒 **Security:** static analysis with Semgrep, JWT-based authentication and secrets management as part of the development workflow.
 - 🤖 **AI-assisted engineering:** MCP servers that expose internal systems as tools for automation, and Claude Code with prompt engineering as support for specific tasks. Design and code review stay human.
@@ -56,12 +56,14 @@ Today I lead technology projects at **Koval**, where I coordinate technology pro
 
 | Where | What I delivered |
 | --- | --- |
-| **Koval** · Technical Supervisor (2024 – present) | Integrated multiple systems with the ERP and improved operational efficiency. Built a condominium access-control system for one of the largest residential communities in the state. |
+| **Koval** · Technical Supervisor (2024 – present) | Lead technical delivery of enterprise software projects, from design to production. |
 | **AgileThought** · Java Developer (2022 – 2024) | Maintained an online order platform that generated shipping labels for carriers and gave customers full order traceability. Built APIs and cloud functions integrating Amazon, Walmart, Mercado Libre, Coppel, DHL, Tresguerras and Estafeta, plus a React purchase-order platform integrated with SAP. |
 
 ## 🔭 Currently building
 
 **An innovative point-of-sale system** with built-in cognitive assistants and product recognition through computer vision. In active development.
+
+**Orka Lang**, a programming language for AI agent orchestration. A personal project, in active development.
 
 ## 🤝 How I work
 
