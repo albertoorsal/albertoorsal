@@ -56,7 +56,7 @@ Today I lead technology projects at **Koval**, where I coordinate technology pro
 
 | Where | What I delivered |
 | --- | --- |
-| **Koval** · Technical Supervisor (2024 – present) | Integrated multiple systems with the ERP and improved operational efficiency. Built a condominium access-control system for one of the largest residential communities in the state. |
+| **Koval** · Technical Supervisor (2024 – present) | Integrated multiple systems with the ERP and improved operational. |
 | **AgileThought** · Java Developer (2022 – 2024) | Maintained an online order platform that generated shipping labels for carriers and gave customers full order traceability. Built APIs and cloud functions integrating Amazon, Walmart, Mercado Libre, Coppel, DHL, Tresguerras and Estafeta, plus a React purchase-order platform integrated with SAP. |
 
 ## 🔭 Currently building
